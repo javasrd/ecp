@@ -9,5 +9,6 @@ public class TestCommitAndPush {
 		System.out.println(str);
 		System.out.println("i am srd!");
 		System.out.println("test branch");
+		System.out.println("jch1234");
 	}
 }
