@@ -1,4 +1,4 @@
-package java;
+package Package1;
 
 public class Test {
 
